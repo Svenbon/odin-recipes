@@ -1,0 +1,61 @@
+/* styles.css */
+
+h1 {
+    text-align: center;
+    border-bottom: solid black;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+
+body {
+    text-align: center;
+    padding: 10px;
+}
+
+.recipes {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: aquamarine;
+    border: solid black;
+    max-width: 800px;
+}
+
+.garlicnoodles {
+    border-bottom: double black;
+}
+
+.garlicnoodles img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.garlicknots { 
+    border-bottom: double black;
+}
+
+.garlicknots img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.bangchicken {
+    border-bottom: double black;
+}
+
+.bangchicken img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+#fire {
+    opacity: 85%;
+}
+
+footer {
+    margin: auto;
+    padding: 10px 0 0 0;
+}
